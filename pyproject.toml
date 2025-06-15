@@ -1,0 +1,12 @@
+[project]
+name = "casa-music-api"
+version = "0.1.0"
+authors = ["Tu Nombre <tu@email.com>"]
+requires-python = ">=3.11"
+
+dependencies = [
+    "flask>=3.1.1",
+    "moviepy>=1.0.3",
+    "requests>=2.32.4",
+    "Pillow>=9.5.0"
+]
