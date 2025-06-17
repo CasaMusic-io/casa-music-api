@@ -1,4 +1,5 @@
-flask
-moviepy
-requests
-pillow
+flask==3.1.1
+moviepy==1.0.3
+requests==2.32.4
+Pillow==10.2.0
+numpy==1.23.0
